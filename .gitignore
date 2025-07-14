@@ -1,0 +1,3 @@
+# Remove IDE specific files
+.idea
+/idea
