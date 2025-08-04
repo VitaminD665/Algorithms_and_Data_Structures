@@ -22,6 +22,20 @@ Linear Search vs. a binary search.
 More on binary search in the next 30 mins.
 
 No functional code yet...
+
+
+For time & space complexity and Big-O notation, always consider the worst case scenario.
+
+Binary Search: O(log(n))
+Linear Search: O(n)
+Quadratic Runtime: O(n^2)
+Cubic Runtime: O(n^3)
+Quasilinear: O(nlog(n))
+Exponential: O(x^n)
+
+Contained various analogies for explaining algorithm runtimes and whatnot.
+
+*Now creating modules for Linear and Binary Search Algorithms
 """
 
 
